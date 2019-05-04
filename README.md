@@ -1,2 +1,2 @@
 # weka-regression
-Lineal Regression in Weka
+Linear Regression in Weka
